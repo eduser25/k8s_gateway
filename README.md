@@ -2,7 +2,7 @@
 
 ## Fork for cilium 1.17 compat
 Just for compatibility with Cilium >1.17.
-Docker built under eduser25/k8s_gateway, use latest.
+Docker built under [eduser25/k8s_gateway](https://hub.docker.com/repository/docker/eduser25/k8s_gateway/general), use `latest`.
 
 ## Overview
 
